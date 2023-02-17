@@ -1,0 +1,5 @@
+include "std/std.porth"
+
+inline proc hello in
+    "Hello, World!\n" puts
+end
